@@ -2,8 +2,6 @@
   * [Introduction](README.md)
   * [1-2年工作经验](ch0/index.md)
       * [Javascript](ch0/js.md)
-      * [Vue](ch0/vue.md)
-      * [React](ch0/react.md)
       * [Css](ch0/css.md)
   * [3-4年工作经验](ch1/index.md)
       * [Javascript](ch1/js.md)
