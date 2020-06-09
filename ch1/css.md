@@ -11,16 +11,26 @@
 
 5. position的值releave和absolute定位远点是？
 
-6. 下面class的会如何显示？ 
+6. 下面class的会如何显示？
+
 ```
 <div class="box">
-
 .box{
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
+}
+```
+```
+FunOne();
+FunTwo();
+function FunOne () {
+    console.log('this is FunOne');
+}
+var FunTwo = function () {
+    console.log('this is FunTwo');
 }
 ```
 
