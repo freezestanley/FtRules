@@ -61,6 +61,7 @@ var a = [
 3. vue mixin是起什么作用的？
 
 4. mixin 选项合并的规则,打印出的结果是什么？
+
 ```
 var mixin = {
   created: function () {
