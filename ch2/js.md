@@ -89,7 +89,11 @@ var a = new Vue({
 
 4. Diff算法？
 
-5. 合成事件与原生事件内state变化？
+5. 合成事件与原生事件？
 
 6. useContext + useReducer 如何构建私有redux?
+
+7. react 性能优化？
+
+8. useRef如何使用？
 

@@ -70,4 +70,6 @@ show(fn);
 
 4. dva是什么？
 
-5. 
+5. react 性能优化？
+
+6. react 方法为什么要bind this?
