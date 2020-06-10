@@ -50,6 +50,21 @@ show(fn);
 
 14. web worker 如何使用？ worker里能控制dom?
 
+15. 宏任务、微任务与Event Loop是如何理解的？console的结果？
+```
+setTimeout(_ => console.log(4))
+
+new Promise(resolve => {
+  resolve()
+  console.log(1)
+}).then(_ => {
+  console.log(3)
+})
+
+console.log(2)
+```
+
+16. async/await函数是宏任务还是微任务？
 
 ## Vue 题目
 1. 什么时候使用_nextTicket?他是同步还是异步的？
@@ -59,6 +74,14 @@ show(fn);
 3. vmode 如何运用在纯div的组件内？
 
 4. next有使用过么？
+
+5. 箭头函数与普通函数的区别？
+
+6. 箭头函数能否通过new实例化？
+```
+var a = () => {}
+var b = new a()
+```
 
 ## React
 
@@ -73,3 +96,5 @@ show(fn);
 5. react 性能优化？
 
 6. react 方法为什么要bind this?
+
+7. 如何理解Fiber架构？带来的优点是哪些？
