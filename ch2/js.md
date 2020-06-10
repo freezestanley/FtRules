@@ -22,6 +22,7 @@
 10. 数组reduce的第个参数的起什么作用？
 
 11. 如何将下列数组去重
+
 ```
 var a = [{value: 1}, '1','2',2,[1,1,'2',{value: 1}]]
 function filter () {
@@ -30,10 +31,10 @@ function filter () {
 
 var b = filter(a)
 console.log(b) // [1,2,'1','2']
-
 ```
 
 12. 如何将多维数组进行拍平？
+
 ```
 var a = [
     [1, 2, 3],
