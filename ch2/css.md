@@ -26,4 +26,4 @@
 
 14. position: sticky 是起什么作用的？
 
-15. 
+15. float:left对比position:absolute对文档流的影响？
