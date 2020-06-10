@@ -69,6 +69,7 @@ console.log(2)
 16. async/await函数是宏任务还是微任务？
 
 
+
 ## Vue 题目
 1. 什么时候使用_nextTicket?他是同步还是异步的？
 
@@ -85,6 +86,10 @@ console.log(2)
 var a = () => {}
 var b = new a()
 ```
+
+7. vue.extends的作用？
+
+8. vue mixin是起什么作用的？
 
 ## React
 
