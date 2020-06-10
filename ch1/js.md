@@ -102,4 +102,10 @@ var b = new a()
 
 7. 如何理解Fiber架构？带来的优点是哪些？
 
+8. getDerivedStateFromProps生命周期的作用？
+
+9. getSnapshotBeforeUpdate 的生命周起的作用？
+
+10. Redux遵循的三个原则是什么？
+
 
