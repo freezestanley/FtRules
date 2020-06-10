@@ -68,6 +68,7 @@ console.log(2)
 
 16. async/await函数是宏任务还是微任务？
 
+17. window.performance 是否有了解？
 
 
 ## Vue 题目
@@ -133,4 +134,9 @@ onHide() 页面隐藏/切入后台时触发。 如 navigateTo 或底部 tab 切�
 onUnload() 页面卸载时触发。如 redirectTo 或 navigateBack 到其他页面时
 
 ```
+
+6. 是否使用过koa、express？
+
+7. 如何理解koa的洋葱模型？
+
 
