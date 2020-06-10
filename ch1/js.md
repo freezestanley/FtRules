@@ -66,6 +66,7 @@ console.log(2)
 
 16. async/await函数是宏任务还是微任务？
 
+
 ## Vue 题目
 1. 什么时候使用_nextTicket?他是同步还是异步的？
 
@@ -98,3 +99,5 @@ var b = new a()
 6. react 方法为什么要bind this?
 
 7. 如何理解Fiber架构？带来的优点是哪些？
+
+
