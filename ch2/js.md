@@ -2,7 +2,7 @@
 ## JS 题目
 
 1. 基于Object.defineProperty如何实现数据的双向绑定？
-
+  
 2. Proxy 的作用？他和Object.defineProperty区别？
 
 3. 如何实现潜拷贝？
