@@ -48,9 +48,10 @@ show(fn);
 
 13. 如何实现防抖函数？
 
-14. web worker 如何使用？ worker里能控制dom?
+14. web worker 如何使用？
 
 15. 宏任务、微任务与Event Loop是如何理解的？console的结果？
+
 ```
 setTimeout(_ => console.log(4))
 
@@ -63,6 +64,7 @@ new Promise(resolve => {
 
 console.log(2)
 ```
+
 
 16. async/await函数是宏任务还是微任务？
 
